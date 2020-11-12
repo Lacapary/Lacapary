@@ -1,0 +1,7 @@
+---
+title: "BIO"
+---
+
+I am biogeographer and ecological modeler currently doing a PhD in Ecology and Global Change, I have a Master in Ecology and Evolution, a Degree in Ecology, and quite a bit of experience in applying state-of-the-art quantitative methods to better understand the processes shaping the distribution of biodiversity across space and time.
+
+My research activity is structured around four main lines, namely biogeography, Geographical Information Systems, range shift, and biodiversity conservation.

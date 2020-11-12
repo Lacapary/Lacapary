@@ -1,0 +1,26 @@
+name: "L. Camila Pacheco Riaño" 
+output_dir: "."
+navbar:
+  title: "L. Camila Pacheco Riaño"                               
+  type: inverse
+  left:
+    - text: " About"
+      icon: fa-user 
+      href: about.html
+    - text: "Blog"
+      icon: fa-rss
+      href: https://lacapary.github.io/blog/ 
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:lc.pacheco27@gmail.com                      
+    - text: ""
+      icon: fa-github
+      href: https://github.com/lacapary
+    - text: ""
+      icon: fa-twitter
+      href: https://www.twitter.com/lacapary
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
