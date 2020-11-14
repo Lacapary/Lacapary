@@ -3,17 +3,15 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:art: [Behance][Behance]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
-
+🐿️[Email][Email] |🐦[Twitter][Twitter]  | [Webpage][Webpage]  🍂 ;
 </div>
 
 <!--
 Quick Link
 -->
+[Twitter]:https://twitter.com/lacapary
+[Email]:mailto:lc.pacheco27@gmail.com
+[Webpage]:https://lacapary.github.io/
 
-[Twitter]:https://twitter.com/CedScherer
-[LinkedIn]:https://www.linkedin.com/in/cedricpscherer/
-[Email]:mailto:info@data-vizard.com
-[Blog]:https://cedricscherer.netlify.com/
-[Portfolio]:https://data-vizard.com/
-[Behance]:https://www.behance.net/cedscherer
+**I am global change ecologist and biogeographer currently studying biodiversity lag responses to climate change at the [University of Bergen](https://www.uib.no/en/rg/EECRG). 
+Since 2019 I have been developing my skills in data wrangling, statistical analysis, model development and data visualization.** 
