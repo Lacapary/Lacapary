@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🐿️[Email][Email] |🐦[Twitter][Twitter]  | [Webpage][Webpage]  🍂 ;
+🐿️[Email][Email] |🐦[Twitter][Twitter]  | [Webpage][Webpage]  🍂 
 </div>
 
 <!--
